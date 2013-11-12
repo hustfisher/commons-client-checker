@@ -1,0 +1,3 @@
+# add useful ClientListener implementation here
+com.weibo.api.commons.client.monitor.listener.AccessListener
+com.weibo.api.commons.client.monitor.listener.StatListener
